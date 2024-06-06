@@ -1,6 +1,6 @@
 # Projeto de Criação de um Podcast com IA
 
-![Capa do Podcast](https://via.placeholder.com/800x400.png?text=Bits+e+Batons%3A+A+For%C3%A7a+Feminina+no+Mundo+Digital)
+![Capa do Podcast](https://github.com/PatQuei/Projeto_Podcast/blob/main/Imagens%20Criadas/podcaster3.jpeg)
 
 ## Descrição
 
